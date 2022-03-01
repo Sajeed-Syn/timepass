@@ -5,3 +5,4 @@ learning git
 tomorrow is wednesday
 line added in branch 1
 the day is fine
+apple a day keeps doctor away
