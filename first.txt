@@ -4,3 +4,4 @@ year is 2022
 learning git
 tomorrow is wednesday
 line added in branch 1
+the day is fine
